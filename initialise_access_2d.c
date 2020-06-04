@@ -32,7 +32,7 @@ int main(void){
 	
 	};
 	
-	printf("********This is my understanding of using pointers to access values in a 2d array. As I am very forgetful and I get confused very easily during practice, I am writing it down for future references.***************\n")
+	printf("********This is my understanding of using pointers to access values in a 2d array. As I am very forgetful and I get confused very easily during practice, I am writing it down for future references.***************\n");
 	printf("This is a 2d array: \n");
 	printf("\n");
 	for(int r =0; r < 2; r++){
